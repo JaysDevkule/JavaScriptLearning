@@ -23,6 +23,7 @@ function reversestr(){
     return str.split('').reverse().join('');
 }
 console.log(`After reverse: ${reversestr()}`);
+
 console.log("--------------------------------------->");
 function opt(){
 var lenopt=str.length;
@@ -31,8 +32,6 @@ var resopt=lenopt/strsplt;
 console.log(`Result of divide : ${resopt} `);
 var resopt1=lenopt*strsplt;
 console.log(`Result of multiplication : ${resopt1} `);
-
-
 }
 opt();
 

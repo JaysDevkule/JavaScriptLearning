@@ -22,4 +22,4 @@ var isEvenOdd=function(word){
 }
 console.log(`JavaScript length is: ${isEvenOdd("JavaScript")}`);
 console.log(`JavaScript length is: ${isEvenOdd("Developer")}`);
-console.log(`JavaScript length is: ${isEvenOdd("google")}`);
+console.log(`JavaScript length is: ${isEvenOdd("google")}`);  
