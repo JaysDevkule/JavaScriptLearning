@@ -1,8 +1,8 @@
 console.log("JavaScript");
 
-var myapple="straw";
-console.log(myapple);
-
-var myname="mohit sharma";
-myname="mohit raju sharma";
-console.log(myname);
+console.log(0==1);
+console.log(0=='0');
+console.log(0==false);
+console.log(null==undefined);
+console.log(1==[1]);
+console.log(1=='1');
